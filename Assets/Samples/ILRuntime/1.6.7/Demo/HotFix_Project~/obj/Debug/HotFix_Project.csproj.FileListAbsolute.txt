@@ -1,0 +1,6 @@
+C:\workspace\ILRuntimeDemo2018\Assets\Samples\ILRuntime\1.6.7\Demo\HotFix_Project~\obj\Debug\HotFix_Project.csproj.CoreCompileInputs.cache
+C:\workspace\ILRuntimeDemo2018\Assets\StreamingAssets\HotFix_Project.dll
+C:\workspace\ILRuntimeDemo2018\Assets\StreamingAssets\HotFix_Project.pdb
+C:\workspace\ILRuntimeDemo2018\Assets\Samples\ILRuntime\1.6.7\Demo\HotFix_Project~\obj\Debug\HotFix_Project.dll
+C:\workspace\ILRuntimeDemo2018\Assets\Samples\ILRuntime\1.6.7\Demo\HotFix_Project~\obj\Debug\HotFix_Project.pdb
+C:\workspace\ILRuntimeDemo2018\Assets\Samples\ILRuntime\1.6.7\Demo\HotFix_Project~\obj\Debug\HotFix_Project.csproj.CopyComplete
